@@ -1,6 +1,5 @@
 from operations import deposite, withdrawal, add_user
 
-### здесь надо сделать парсер. Это все пока что не работает
 def smart():
     while True:
         command = input(">>> ")
